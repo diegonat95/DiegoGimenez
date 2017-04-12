@@ -1,0 +1,8 @@
+TeST.text
+Here Is a test
+More tEXt.
+test.test TeST TEST test
+Text;text; more
+More:More: more
+TEXT-teXT,
+Test Text More,
